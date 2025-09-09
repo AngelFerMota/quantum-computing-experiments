@@ -1,0 +1,8 @@
+qiskit
+matplotlib
+notebook
+qiskit-aer
+numpy
+pillow
+scipy
+seaborn
